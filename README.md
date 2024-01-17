@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif)
+[![MasterHead](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif)](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ian Mabans</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianmabans&label=Profile%20views&color=0e75b6&style=flat" alt="ianmabans" /> </p>
 
