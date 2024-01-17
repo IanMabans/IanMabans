@@ -1,11 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ian Mabans</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/VhoznbzfDogw7Fzg7">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianmabans&label=Profile%20views&color=0e75b6&style=flat" alt="ianmabans" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kamares" target="blank"><img src="https://img.shields.io/twitter/follow/kamares?logo=twitter&style=for-the-badge" alt="kamares" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianmabans" alt="ianmabans" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mabans" target="blank"><img src="https://img.shields.io/twitter/follow/mabans?logo=twitter&style=for-the-badge" alt="mabans" /></a> </p>
 
 - 🔭 I’m currently working on [100 days of Python](https://github.com/IanMabans/python1)
 
@@ -19,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kamares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamares" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ian mahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian mahia" height="30" width="40" /></a>
+<a href="https://twitter.com/mabans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mabans" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ian-mahia-3633a31a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian-mahia-3633a31a1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
