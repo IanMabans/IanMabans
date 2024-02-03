@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mabans.apps@gmail.com**
 
-- ⚡ Fun fact **I love walks at the beach**
+- ⚡ Fun fact **I love walks at the beach and cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
