@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python and Data Science**
 
-- 💬 Ask me about **Flutter, Python, AI**
+- 💬 Ask me about **Flutter, Python, Laravel, AI**
 
 - 📫 How to reach me **mabans.apps@gmail.com**
 
